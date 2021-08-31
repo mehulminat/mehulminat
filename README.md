@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mehulminat
-- 👀 I’m interested in App Devolpment,AI,IoT and many other...
+- 👀 I’m interested in App Devolpment,AI,Blockchain and many other...
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on any Project.
 - 📫 How to reach me :Github
