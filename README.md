@@ -1,5 +1,5 @@
 # Hi, folks! <img src="https://raw.githubusercontent.com/mehulminat/mehulminat/main/wave.gif" width="30px"> I'm Mehul Minat
-- 👀 I’ve keen interest in App Devolpment,AI,Blockchain and many other...
+- 👀 I’ve keen interest in App Development,AI,Blockchain and many other...
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on any Open Source Project.
 ## :email: Find me on:
